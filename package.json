@@ -1,0 +1,10 @@
+{
+	"dependencies": {
+		"yeoman-generator": "^4.5.0"
+	},
+	"name": "generator-typescript",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"devDependencies": {}
+}
